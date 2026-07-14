@@ -1,0 +1,13 @@
+{
+  "name": "cloud-skill",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Portable, evidence-informed CLOUD wellbeing coaching skill.",
+  "scripts": {
+    "build": "node scripts/catalog.mjs",
+    "check": "node scripts/catalog.mjs --check",
+    "release": "node scripts/release.mjs"
+  },
+  "license": "Apache-2.0"
+}

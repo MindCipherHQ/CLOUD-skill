@@ -1,0 +1,9 @@
+# Mixed-content licence notice
+
+This repository contains written coaching material and executable tooling under separate licences.
+
+- The skill modules, coaching guidance, generated prompt, references, and documentation are licensed under the Creative Commons Attribution 4.0 International licence as described in `LICENSE-CONTENT` and `NOTICE.md`.
+- The scripts and workflow code are licensed under the Apache License 2.0 in `LICENSE-CODE`.
+- Third-party publications, assessment instruments, standards, names, and trademarks are not relicensed by this repository. See `SOURCES.md` and `ATTRIBUTION.md`.
+
+SPDX expressions should be applied by file type: `CC-BY-4.0` for content and `Apache-2.0` for code.

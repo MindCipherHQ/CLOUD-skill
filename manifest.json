@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "catalog_version": "1.0.1",
+  "released_at": "2026-07-14",
+  "license": "CC-BY-4.0",
+  "skills": [
+    {
+      "id": "burnout-boundaries",
+      "name": "Burnout Boundaries",
+      "kind": "core",
+      "category": "well-being",
+      "path": "skills/core/burnout-boundaries/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2500,
+      "sha256": "b732238777078ab6245a16b91d0be1c4180f1038b08ee515a848d7495893c173",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "cloud-coaching-lens",
+      "name": "CLOUD Coaching Lens",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/cloud-coaching-lens/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2600,
+      "sha256": "9cd574e293d1dd961cc8a81712e5d4511648483b1489aa0689f61cf1c75fd74f",
+      "creator": "Dr Lindsay Demers",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "grow-goal",
+      "name": "GROW Stage - Goal",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/grow-goal/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 3000,
+      "sha256": "822295a6dcf1d3a25493c983441e6064ee5e2cca30b869f2c184ba5f2c01729e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "grow-index",
+      "name": "GROW Coaching Index",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/grow-index/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2600,
+      "sha256": "ae0e05c44e9d3b0c57d7b0138999c55df158bec5a02c0310de109a109ca7dde4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "grow-options",
+      "name": "GROW Stage - Options",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/grow-options/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 3800,
+      "sha256": "53c723c7ac101f9bb616211a3a4a9b10616c0ae4a2d39bbf1f865b6d11b2d71c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "grow-reality",
+      "name": "GROW Stage - Reality",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/grow-reality/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 3200,
+      "sha256": "7b11c3c870a3e562911ec19654006c441a9ed571b95341ecbf875b4b6df9fe6c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "grow-will",
+      "name": "GROW Stage - Will / Way Forward",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/grow-will/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 3800,
+      "sha256": "b49bd51f5db27b6da476212d31cc9e6419c375403694d325e05203f4599a77c3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "grow-wrap-up",
+      "name": "GROW Stage - Wrap-Up",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/grow-wrap-up/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2600,
+      "sha256": "cb847e588e322414c07ee0ad8632042375d750b8bb73fa01854d440a2f5d01a1",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "hope-building",
+      "name": "Hope-Building Route Map",
+      "kind": "core",
+      "category": "positive-psychology",
+      "path": "skills/core/hope-building/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2200,
+      "sha256": "784bdd1eadf7975c3709bb39dc1f7bb144664586014b2bb7b84cff6e90731aea",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "invitation-based-provocation",
+      "name": "Invitation-Based Positive Provocation",
+      "kind": "core",
+      "category": "coaching",
+      "path": "skills/core/invitation-based-provocation/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2200,
+      "sha256": "427e43e8f82fb4701962787729bece5ee57904d96cb6459df4c43cde91b941ac",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "perma-positive-psychology",
+      "name": "PERMA Positive Psychology",
+      "kind": "core",
+      "category": "positive-psychology",
+      "path": "skills/core/perma-positive-psychology/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2500,
+      "sha256": "51220cf5b6146a6de435b7b5d5a30af65dd22b4e74960e7a1894cccdb7ab95e6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "positive-psychology-assessment-suite",
+      "name": "Positive Psychology Assessment Suite",
+      "kind": "core",
+      "category": "positive-psychology",
+      "path": "skills/core/positive-psychology-assessments/SKILL.md",
+      "references": [
+        {
+          "path": "skills/core/positive-psychology-assessments/REFERENCE.md",
+          "sha256": "9d810b36718f3fef269ca2eff41128478fe303ac8177906a26424bf0e70dc663"
+        }
+      ],
+      "activation": "routed",
+      "max_context_chars": 5200,
+      "sha256": "136f94381da43b459986ecd593e741ad6c9a4d27a63c432cb192ecdcb78264fa",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "priority-stuck",
+      "name": "Overwhelm and Prioritisation Stuck",
+      "kind": "core",
+      "category": "coaching-framework",
+      "path": "skills/core/priority-stuck/SKILL.md",
+      "references": [
+        {
+          "path": "skills/core/priority-stuck/REFERENCE.md",
+          "sha256": "81591e2f2bde08df561baf2e3b137cbea6896cfd32cc4999b6424f063fb135f9"
+        }
+      ],
+      "activation": "routed",
+      "max_context_chars": 2800,
+      "sha256": "196bd1334fd4e0a3e7259f180868ce7e27ff401d1cd5744ebda2854443f024b6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "reflective-measurement",
+      "name": "Reflective Measurement And Psychometrics",
+      "kind": "core",
+      "category": "measurement",
+      "path": "skills/core/reflective-measurement/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2600,
+      "sha256": "3a03547d8089e8aa245b9cf494433ccbc81848a505f913c213d4b0d3cc088c13",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "tiny-behavior-change",
+      "name": "Tiny Behavior Change",
+      "kind": "core",
+      "category": "behavior-change",
+      "path": "skills/core/tiny-behavior-change/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2200,
+      "sha256": "ffabc26cb80a2a597da9797dfbde3061bfe06642801d77e27364532f8c35426e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "via-strengths",
+      "name": "VIA Strengths",
+      "kind": "core",
+      "category": "positive-psychology",
+      "path": "skills/core/via-strengths/SKILL.md",
+      "references": [],
+      "activation": "routed",
+      "max_context_chars": 2500,
+      "sha256": "ebcc22bb8308e95f7c132509690cb784ea5e918c4114e5bd81bd90db406955dc",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "adhd-coaching",
+      "name": "ADHD coaching",
+      "kind": "profile",
+      "category": "neurodiversity",
+      "path": "skills/optional/neurodiversity/adhd-coaching/SKILL.md",
+      "references": [],
+      "activation": "optional",
+      "max_context_chars": 2000,
+      "sha256": "b7ff00b1245d903142b7240ecb1a1c414a48ff15e82a62fc6ec8e5d43fa5ea68",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "audhd-coaching",
+      "name": "AuDHD coaching",
+      "kind": "profile",
+      "category": "neurodiversity",
+      "path": "skills/optional/neurodiversity/audhd-coaching/SKILL.md",
+      "references": [],
+      "activation": "optional",
+      "max_context_chars": 2000,
+      "sha256": "b677faf4e370e26f5dffa71f2fda4972241c30eef28bb750d966bb58068e7d78",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "autism-informed-coaching",
+      "name": "Autism-informed coaching",
+      "kind": "profile",
+      "category": "neurodiversity",
+      "path": "skills/optional/neurodiversity/autism-informed-coaching/SKILL.md",
+      "references": [],
+      "activation": "optional",
+      "max_context_chars": 2000,
+      "sha256": "e8739e5fe37dc258e978805498301c16311ffa51ce5e57d48c1f179a51f8fc1c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "coach-stance-and-boundaries",
+      "name": "Coach stance and boundaries",
+      "kind": "profile",
+      "category": "neurodiversity",
+      "path": "skills/optional/neurodiversity/coach-stance-and-boundaries/SKILL.md",
+      "references": [],
+      "activation": "optional",
+      "max_context_chars": 2000,
+      "sha256": "509291d3e793c5cfa4538df5720b3850390218840f4d67e739910ab04c36df40",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "universal-neuroinclusive-coaching",
+      "name": "Universal neuroinclusive coaching",
+      "kind": "profile",
+      "category": "neurodiversity",
+      "path": "skills/optional/neurodiversity/universal-neuroinclusive-coaching/SKILL.md",
+      "references": [],
+      "activation": "optional",
+      "max_context_chars": 2000,
+      "sha256": "5d7c1522a1f9f1ffd3ba64d7195113382e6dcb4e751912635438e6bab8c4869e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "coaching",
+      "name": "Evidence-Based Positive Psychology Coaching",
+      "kind": "system",
+      "category": "system",
+      "path": "skills/system/coaching/SKILL.md",
+      "references": [
+        {
+          "path": "skills/system/coaching/REFERENCE.md",
+          "sha256": "59e564126c625ec8240ade529ddf31c078722317e97bf6e016402fd37f229dbc"
+        }
+      ],
+      "activation": "always",
+      "max_context_chars": 6500,
+      "sha256": "aa224f098c8184be67063345e1a54aae095a0950c3408460346743c5042ac790",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "conversation",
+      "name": "Well-Being Chat Conversation Contract",
+      "kind": "system",
+      "category": "system",
+      "path": "skills/system/conversation/SKILL.md",
+      "references": [],
+      "activation": "always",
+      "max_context_chars": 4000,
+      "sha256": "3f6586e9b6283278c0625279ceaacc8fe1b167473a9485d5ae35e636762c1870",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}
